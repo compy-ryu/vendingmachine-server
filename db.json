@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "test22@gmail.com",
+      "password": "$2a$10$Fdnj3SiEamk9IwynS3Mu3.j2Cxws4JkB4f5ugSwjKamyAEMQXIx7q",
+      "name": "테스트",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "이름",
+      "price": "가격",
+      "quantity": "수량"
+    }
+  ]
+}
