@@ -1,0 +1,23 @@
+{
+  "name": "vendingmachine-server",
+  "version": "1.0.0",
+  "description": "레벨 1 자판기 미션 배포용 서버",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compy-ryu/vendingmachine-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compy-ryu/vendingmachine-server/issues"
+  },
+  "homepage": "https://github.com/compy-ryu/vendingmachine-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  }
+}
